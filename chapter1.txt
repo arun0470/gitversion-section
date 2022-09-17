@@ -1,0 +1,1 @@
+this is a starting text version 1 version  control using git and the command line
